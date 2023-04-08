@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolguruz.com%2Fblog%2Ffuture-of-nodejs%2F&psig=AOvVaw285YMMVcrTqPnKxfj9_s8d&ust=1681042114928000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCcxImgmv4CFQAAAAAdAAAAABAb)](https://calteen.github.io/portfolio/)
+[![MasterHead](https://solguruz.com/wp-content/uploads/2022/12/The-key-benefits-of-Node.js.png)](https://calteen.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm JAY PATEL</h1>
 <h3 align="center">A passionate BACKEND & DEVOPS developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
