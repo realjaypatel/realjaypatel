@@ -1,28 +1,3 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm JAY PATEL</h1>
-<h3 align="center">A passionate BACKEND & DEVOPS Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calteen&label=Profile%20views&color=0e75b6&style=flat" alt="calteen" /> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-- 🔭 I’m currently working on **Publishing Website**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👨‍💻 All of my projects are available at [https://calteen.github.io/portfolio/](https://calteen.github.io/portfolio/)
-
-- 📝 I regularly write articles on [https://dev.to/calteen](https://dev.to/calteen)
-
-- 💬 Ask me about **Web Development, game Dev and Backend**
-
-- 📫 How to reach me **pjay32547@gmail.com**
-
-- 📄 Know about my experiences [https://calteen.github.io/portfolio/](https://calteen.github.io/portfolio/)
-
-- ⚡ Fun fact **Coffee + Programming + Lofi is Love.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -134,17 +109,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calteen&label=Profile%20views&color=0e75b6&style=flat" alt="calteen" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/calteen" target="blank"><img src="https://img.shields.io/twitter/follow/calteen?logo=twitter&style=for-the-badge" alt="calteen" /></a> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on **Publishing Website**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 👨‍💻 All of my projects are available at [https://calteen.github.io/portfolio/](https://calteen.github.io/portfolio/)
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 💬 Ask me about **Web Development, game Dev and Backend**
 
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me **pjay32547@gmail.com**
+
+- ⚡ Fun fact **Coffee + Programming + Lofi is Love.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
