@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolguruz.com%2Fblog%2Ffuture-of-nodejs%2F&psig=AOvVaw285YMMVcrTqPnKxfj9_s8d&ust=1681042114928000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCcxImgmv4CFQAAAAAdAAAAABAb)](https://calteen.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm JAY PATEL</h1>
 <h3 align="center">A passionate BACKEND & DEVOPS developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -25,45 +25,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 🤝 Reach me out
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neel-bavarva-61662a1a3) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/neelbavarva)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patel-jaykumar-583b7b236/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/calteen)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its.me.jayz/) 
 
-- :globe_with_meridians: [**Portfolio**](https://neelbavarva.com/)
-- 📄 [**Resume**](https://docs.google.com/document/d/1RU93frh_ecjFYVGSr0stFWRL9oivy9Az/edit?usp=sharing&ouid=103003234059526586972&rtpof=true&sd=true)
+- :globe_with_meridians: [**Portfolio**](https://calteen.github.io/portfolio/)
+- 📄 [**Resume**](https://www.canva.com/design/DAFfUhlF9Ho/B1dK5bkKv_yWcNKc04QDLQ/edit?utm_content=DAFfUhlF9Ho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### ⚡ Skills
 
@@ -83,7 +51,7 @@
 
 
 #### DATABASES
-[MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 #### DESIGN
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
