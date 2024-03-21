@@ -101,7 +101,7 @@
 
 
 ### 🌟  Portfolio 
-[Vishwa Gaurav - Portfolio](https://realjaypatel.github.io) ,
+[Jay's - Portfolio](https://realjaypatel.github.io) ,
 </> and Crafted with 💛 by Jay Patel
 
 
