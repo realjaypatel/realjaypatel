@@ -383,16 +383,6 @@ if (codeWorking){
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/realjaypatel/realjaypatel/blob/output/github-contribution-grid-snake.svg" />
-  
-
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -415,10 +405,18 @@ if (codeWorking){
 
 
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/realjaypatel/realjaypatel/blob/output/github-contribution-grid-snake.svg" />
+  
 
+  <br/><br/><br/>
+</div>
 
+<hr/>
 
-
+![snake gif](https://github.com/realjaypatel/realjaypatel/blob/output/github-contribution-grid-snake.svg)
 
 
 
