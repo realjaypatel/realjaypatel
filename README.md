@@ -1,6 +1,8 @@
 [![MasterHead](https://solguruz.com/wp-content/uploads/2022/12/The-key-benefits-of-Node.js.png)](https://realjaypatel.github.io/)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realjaypatel.realjaypatel" />
+
 <h1 align="center">Hi 👋, I'm JAY PATEL</h1>
-<h3 align="center">A passionate BACKEND & DEVOPS developer </h3>
+<h3 align="center">A passionate software developer from India in</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
@@ -24,35 +26,9 @@
 
 
 
-## Creation 👨‍💻
-
-
-### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
-[Vishwa Gaurav - Portfolio](https://itsvg.in) ,
-</> and Crafted with 💛 by Vishwa Gaurav
 
 
 
-<p align="right">
-.. working on few more projects 😉 </p>
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realjaypatel.realjaypatel" />
-
-
-
-<h3 align="center">A passionate software developer from India in</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -121,3 +97,14 @@
 
 
 
+## Creation 👨‍💻
+
+
+### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
+[Vishwa Gaurav - Portfolio](https://itsvg.in) ,
+</> and Crafted with 💛 by Vishwa Gaurav
+
+
+
+<p align="right">
+.. working on few more projects 😉 </p>
