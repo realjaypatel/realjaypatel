@@ -444,4 +444,5 @@ Twitter API pricing changes Killed this tool sadly
 
 
 
-![snake gif](https://github.com/REALJAYPATEL/REALJAYPATEL/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/realjaypatel/realjaypatel/blob/output/github-contribution-grid-snake-dark.svg)
+https://github.com/realjaypatel/realjaypatel/blob/output/github-contribution-grid-snake-dark.svg
