@@ -95,9 +95,9 @@ Completed almost full backend and devops for (web and android apps)
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CALTEEN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=REALJAYPATEL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CALTEEN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=REALJAYPATEL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://leetcard.jacoblin.cool/calteen?border=0&radius=20&theme=dark&font=Montserrat)
 
