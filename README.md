@@ -1,4 +1,4 @@
-[![MasterHead](https://solguruz.com/wp-content/uploads/2022/12/The-key-benefits-of-Node.js.png)](https://calteen.github.io/portfolio/)
+[![MasterHead](https://solguruz.com/wp-content/uploads/2022/12/The-key-benefits-of-Node.js.png)](https://realjaypatel.github.io/)
 <h1 align="center">Hi 👋, I'm JAY PATEL</h1>
 <h3 align="center">A passionate BACKEND & DEVOPS developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://calteen.github.io/portfolio/](https://calteen.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://realjaypatel.github.io/](https://realjaypatel.github.io/)
 
 - 💬 Ask me about **Web Development, game Dev and Backend**
 
@@ -30,7 +30,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patel-jaykumar-583b7b236/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/calteen)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its.me.jayz/) 
 
-- :globe_with_meridians: [**Portfolio**](https://calteen.github.io/portfolio/)
+- :globe_with_meridians: [**Portfolio**](https://realjaypatel.github.io/)
 - 📄 [**Resume**](https://www.canva.com/design/DAFfUhlF9Ho/B1dK5bkKv_yWcNKc04QDLQ/edit?utm_content=DAFfUhlF9Ho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### ⚡ Skills
@@ -98,5 +98,7 @@ Completed almost full backend and devops for (web and android apps)
 ![](https://github-readme-stats.vercel.app/api?username=CALTEEN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CALTEEN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://leetcard.jacoblin.cool/calteen?border=0&radius=20&theme=dark&font=Montserrat)
 
 
