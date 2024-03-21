@@ -335,30 +335,13 @@ if (codeWorking){
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-<!--
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-Twitter API pricing changes Killed this tool sadly
--->
-
-### Thanks for Visiting my GitHub Profile!
-
----
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
 
 
 
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realjaypatel.realjaypatel" />
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
 
 <h3 align="center">A passionate software developer from India in</h3>
 
@@ -403,7 +386,8 @@ Twitter API pricing changes Killed this tool sadly
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/realjaypatel/realjaypatel/blob/output/github-contribution-grid-snake.svg)
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/realjaypatel/realjaypatel/blob/output/github-contribution-grid-snake.svg" />
+  
 
   <br/><br/><br/>
 </div>
