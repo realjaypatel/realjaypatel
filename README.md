@@ -2,7 +2,7 @@
  Hello Folks! <img src="https://raw.githubusercontent.com/10adnan75/10adnan75/master/assets/hi.gif" width="33px">
 </h2> 
 <h2 align='center'>
- I'm   <a href="https://github.com/19ANISH" target="_blank"> Anish Rajwani</a>
+ I'm   <a href="https://github.com/realjaypatel" target="_blank"> Jay Patel</a>
 </h2>
 <p align='center'>
  <a href="https://www.linkedin.com/in/anish-rajwani-6852341b1" target="_blank">
@@ -16,6 +16,6 @@
  <img src="http://github-readme-streak-stats.herokuapp.com?user=19ANISH&theme=gotham&hide_border=true">
 </p>
 
-[![@19anish's Holopin board](https://holopin.me/realjaypatel)](https://holopin.io/@realjaypatel)
+[![@jay's Holopin board](https://holopin.me/realjaypatel)](https://holopin.io/@realjaypatel)
 
 
